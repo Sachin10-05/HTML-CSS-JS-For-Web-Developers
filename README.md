@@ -10,7 +10,7 @@ This repository contains all the source code used in the entire course "HTML, CS
 * Module-5 - Coding
 
 # Outputs:
-* Module-2
+* [Module-2](https://github.com/Sachin10-05/HTML-CSS-and-JS-For-Web-Developers/blob/main/Module-2/index.html)
 * Module-3
 * Module-4
 * Module-5

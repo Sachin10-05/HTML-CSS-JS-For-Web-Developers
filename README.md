@@ -11,6 +11,6 @@ This repository contains all the source code used in the entire course "HTML, CS
 
 # Outputs:
 * [Module-2](http://htmlpreview.github.io/?https://github.com/Sachin10-05/HTML-CSS-and-JS-For-Web-Developers/blob/main/Module-2/index.html)
-* Module-3
+* [Module-3](http://htmlpreview.github.io/?https://github.com/Sachin10-05/HTML-CSS-and-JS-For-Web-Developers/blob/main/Module-3/index.html)
 * Module-4
 * Module-5

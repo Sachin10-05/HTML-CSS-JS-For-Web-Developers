@@ -17,5 +17,5 @@ This repository contains all the source code used in the entire course `HTML, CS
 * [Module-5](http://htmlpreview.github.io/?https://github.com/Sachin10-05/HTML-CSS-and-JS-For-Web-Developers/blob/main/Module-5/index.html)
 
 # Final Project:
-The site is published at [David Chu's China Bistro](https://github.com/Sachin10-05/David-Chu-s-China-Bistro)
+The site is published at [David Chu's China Bistro](https://github.com/Sachin10-05/David-Chu-s-China-Bistro) <br>
 It contains complete source code used for entire course with detailed comments for easy understanding.

@@ -1,5 +1,5 @@
 # HTML-CSS-JS-For-Web-Developers
-This repository contains all the source code used in the entire course `HTML, CSS and Javascript for Web Developers` via Coursera.
+This repository contains all the source code used in the entire course `HTML, CSS and Javascript for Web Developers` offered by Coursera.
 
 ![alt text](https://github.com/Sachin10-05/HTML-CSS-JS-For-Web-Developers/blob/main/completion%20certificate.jpg)
 
